@@ -12,4 +12,5 @@ This product and been developed with two use cases in mind:
 Firstly, as a commercial device, the plant type is detected using a small RFID Tag attached to its pot, and spraying action is performed.
 
 Secondly, it is meant to stop over-pollution of fertile soil and water-bodies though excess use of pesticides and chemicals in agriculture sector. This is achieved by spraying ONLY the required amount of tonic on the seasonal crops, and not depending on the will of labours. This will ultimately highly minimize the effect of 'eutrophication' and will STOP harmful chemicals seeping into the vegetables we consume.
+
 Prepared from stratch in HackTU 2.0
